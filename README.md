@@ -12,3 +12,17 @@ afternoon: 2017-30-7
 Functions are now working properly. Each time the button is pushed a tab opens up and a random psychill mix starts playing. 
 Need to make the background responsive and figure out how to make the whole thing a Chrome Extension.
 
+evening: 2017-30-7
+Everything is looking good and working well. And I got the 3 icons needed for the browser extension and have it installed in the browser. However Chrome seems to be blocking the javascript from running. So while it works as a stand-alone app in the browser, it's getting hung up as an extension. Will need more investigating as to how to get the javascript running in the extension the same way it does as a stand alone. 
+
+...reading all the google developer docs atm to try and find the workaround. I keep reading if you put:  
+ 
+ "permissions": [
+ "tabs", "<all_urls>",
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+  
+  ..in the manifest.json it should work. But...no,..it's not. New tabs aren't opening and I think it's because the javascript isn't running. Nothing happens when you click the button. The pop-up comes out of the browser displaying the button but nothing actually is happening when you click it. 
+  
+  ..will continue to research...
