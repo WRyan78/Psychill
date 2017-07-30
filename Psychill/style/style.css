@@ -1,7 +1,7 @@
 body {
     background-image: url("../img/tech.jpg");
     background-position: center fixed;
-    background-size: max-width 100% max-height 100%;
+     
 }
 
  h1 {
@@ -11,8 +11,8 @@ body {
  	text-shadow: 5px 5px 5px lightgrey;
  }
 
- #space {
- 	padding-bottom: 5%;
+ #spacer {
+ 	padding: 2%;
  }
 
  button {
@@ -30,9 +30,4 @@ body {
 	transition: box-shadow 1s ease;
  	font-family: 'Orbitron';
 }
-
-/*button:hover {
-	box-shadow: 0px 4px 4px rgba(34,62,66,.5);
-	-webkit-transition: box-shadow 1s ease;
-	transition: box-shadow 1s ease;
-}*/
+ 
