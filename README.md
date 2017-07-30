@@ -19,8 +19,7 @@ Everything is looking good and working well. And I got the 3 icons needed for th
  
  "permissions": [
  "tabs", "<all_urls>",
-    "activeTab",
-    "https://ajax.googleapis.com/"
+    "activeTab"
   ]
   
   ..in the manifest.json it should work. But...no,..it's not. New tabs aren't opening and I think it's because the javascript isn't running. Nothing happens when you click the button. The pop-up comes out of the browser displaying the button but nothing actually is happening when you click it. 
