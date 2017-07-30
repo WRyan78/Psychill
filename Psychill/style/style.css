@@ -1,11 +1,15 @@
 body {
-    background-image: url("../img/tech.jpg");
-    background-position: center fixed;
+    background-image: url("../tech.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #19EBEB;
  }
 
  h1 {
- 	font-family: 'Orbitron'; 
  	color: rgb(145, 216, 199);
+ 	font-family: 'Orbitron'; 
  	text-align: center;
  	text-shadow: 5px 5px 5px lightgrey;
  }
@@ -17,12 +21,12 @@ body {
  button {
 	-webkit-transition: box-shadow 1s ease;
 	background: linear-gradient(45deg, rgba(93, 220, 223, 0.65) 0%,rgba(121, 225, 201, 0.65) 50%,rgba(145, 216, 199, 0.65) 100%);
-	border-radius: 2px;
+	border-radius: 3px;
 	box-shadow: 0px 2px 4px rgba(34,62,66,.25);
 	color: #fff;
 	font-size: 13px;
 	letter-spacing: 1px;
-	padding: 12px 15px;
+	padding: 8px 10px;
 	text-decoration: none;
 	text-transform: uppercase;
 	transition: box-shadow 1s ease;
