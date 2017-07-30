@@ -1,5 +1,6 @@
 # Psychill
 
+early morning: 2017-30-7
 Building a program that (hopefully) will be a Chrome Extension. 
 
 The idea is that with one click it will open a tab and generate randomly selected music from an array of youtube links. 
@@ -7,5 +8,7 @@ While coding & studying it would be nice to quickly and easily be able to get so
 
 Just click an icon on the browser and music starts playing. (like the Adblock button or the Gdrive button/extension.)  
 
-(work in progress)
+afternoon: 2017-30-7
+Functions are now working properly. Each time the button is pushed a tab opens up and a random psychill mix starts playing. 
+Need to make the background responsive and figure out how to make the whole thing a Chrome Extension.
 
