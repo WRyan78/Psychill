@@ -1,8 +1,7 @@
 body {
     background-image: url("../img/tech.jpg");
     background-position: center fixed;
-     
-}
+ }
 
  h1 {
  	font-family: 'Orbitron'; 
@@ -16,7 +15,6 @@ body {
  }
 
  button {
-	
 	-webkit-transition: box-shadow 1s ease;
 	background: linear-gradient(45deg, rgba(93, 220, 223, 0.65) 0%,rgba(121, 225, 201, 0.65) 50%,rgba(145, 216, 199, 0.65) 100%);
 	border-radius: 2px;
