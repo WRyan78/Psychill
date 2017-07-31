@@ -3,7 +3,7 @@
 
   "name": "Psychill",
   "description": "Hours of Ambient Psychill music at the click of a button. Perfect for when studying or coding. ",
-  "version": "1.0",
+  "version": "0.0.1",
 
   "browser_action": {
     "default_icon": "icon16.png",
