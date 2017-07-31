@@ -17,9 +17,17 @@ var pickASong = function () {
 var todaysSong = selectSong[Math.floor(Math.random() * selectSong.length)];
 return todaysSong;
 };
-//'pickASong()' to call function and return random link from the array
-// function to open a new tab when the button is clicked
-function openMusicInNewTab(url) {
-  var win = window.open(url, '_blank');
+//'pickASong()' to call function, = return random link from the array
+
+// function to open a new tab and insert value from pickASong function  
+function openNewTab(url) {
+  var win = window.open(pickASong(), '_blank');
   win.focus();
 };
+
+// event listener listening for the button to be clicked
+document.addEventListener('DOMContentLoaded', function() {
+	document.getElementById("click").addEventListener("click", openNewTab);
+});
+ 
+ 
