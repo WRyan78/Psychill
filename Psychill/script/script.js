@@ -10,8 +10,17 @@ var selectSong = [
 	 "https://www.youtube.com/watch?v=jhvqQ9orRrs",
 	 "https://www.youtube.com/watch?v=gIxuJQ1HAmc",
 	 "https://www.youtube.com/watch?v=uL0mvPZuklM",
-	 "https://www.youtube.com/watch?v=guXMb7zLblM"
+	 "https://www.youtube.com/watch?v=guXMb7zLblM",
+	 "https://www.youtube.com/watch?v=LfaHvzBH6Tw",
+	 "https://www.youtube.com/watch?v=FN9WmeF7F60",
+	 "https://www.youtube.com/watch?v=EBC9LIUpKeo",
+	 "https://www.youtube.com/watch?v=p_52Zq6ke0w",
+	 "https://www.youtube.com/watch?v=bK6e7dZDZVw",
+	 "https://www.youtube.com/watch?v=ORNfEC1q2EU",
+	 "https://www.youtube.com/watch?v=PaUeyDLMd7s",
+	 "https://www.youtube.com/watch?v=sl9rxITenzQ"
 ];
+
 // function to generate random link
 var pickASong = function () {
 var todaysSong = selectSong[Math.floor(Math.random() * selectSong.length)];
