@@ -66,3 +66,6 @@ Everything is now working as it should. The problem found is that the Chrome Bro
 morning: 2017-1-8
 
 Some minor tweaks and changes. Added more music to the playlist also. 
+
+update 09.14.2020
+deleted old links no longer viable and added some new functionig ones. 
