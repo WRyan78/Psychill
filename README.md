@@ -12,4 +12,4 @@ So that when you're studying or programming you don't have to dig through bookma
 
 
 update 09.14.2020
-deleted old links no longer viable and added some new functionig ones. 
+deleted old links no longer viable and added some new functioning ones. 
