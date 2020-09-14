@@ -1,24 +1,21 @@
 // music array
 var selectSong = [
-	 "https://www.youtube.com/watch?v=mQ8moLn3e-k",
-	 "https://www.youtube.com/watch?v=NpOtkhBcc8k",
 	 "https://www.youtube.com/watch?v=0SUCWB_0bqw",
-	 "https://www.youtube.com/watch?v=mJkaGXFLO7U",
 	 "https://www.youtube.com/watch?v=ZK3U92URi_c",
 	 "https://www.youtube.com/watch?v=mUUc_APqHOE",
 	 "https://www.youtube.com/watch?v=b8OELzmpgZo&list=PLB9FB4E1138286D3C",
 	 "https://www.youtube.com/watch?v=jhvqQ9orRrs",
-	 "https://www.youtube.com/watch?v=gIxuJQ1HAmc",
 	 "https://www.youtube.com/watch?v=uL0mvPZuklM",
 	 "https://www.youtube.com/watch?v=guXMb7zLblM",
-	 "https://www.youtube.com/watch?v=LfaHvzBH6Tw",
+	 "https://www.youtube.com/watch?v=2APzMIXoHQg",
 	 "https://www.youtube.com/watch?v=FN9WmeF7F60",
-	 "https://www.youtube.com/watch?v=EBC9LIUpKeo",
-	 "https://www.youtube.com/watch?v=p_52Zq6ke0w",
 	 "https://www.youtube.com/watch?v=bK6e7dZDZVw",
 	 "https://www.youtube.com/watch?v=ORNfEC1q2EU",
-	 "https://www.youtube.com/watch?v=PaUeyDLMd7s",
-	 "https://www.youtube.com/watch?v=sl9rxITenzQ"
+	 "https://www.youtube.com/watch?v=sl9rxITenzQ",
+	 "https://www.youtube.com/watch?v=grWRSyptTnk",
+	 "https://www.youtube.com/watch?v=4TuY06d7ZBI",
+	 "https://www.youtube.com/watch?v=7UgLrh8_qE8",
+	 "https://www.youtube.com/watch?v=NH-TKcywf4Y"
 ];
 
 // function to generate random link
